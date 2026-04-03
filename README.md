@@ -36,12 +36,12 @@ No additional toolboxes or external dependencies are needed.
 
 ### 1. Band Structure and Fermi Surface (`BandStructure_FermiSurface.m`)
 
-Open the script and set the physical parameters in the clearly marked sections at the top:
+Open the script and set the physical parameters as you please in the clearly marked sections at the top:
 
 ```matlab
-v    = 0.0000;   % Displacement field in eV (try 0, 0.0004, 0.0007)
-phi1 = 0.0054;   % In-plane magnetic flux (x-component)
-phi2 = 0.0000;   % In-plane magnetic flux (y-component)
+v    =;   % Displacement field in eV (try 0, 0.0004, 0.0007)
+phi1 =;   % In-plane magnetic flux (x-component)
+phi2 =;   % In-plane magnetic flux (y-component)
 ```
 
 Run the script. It will:
