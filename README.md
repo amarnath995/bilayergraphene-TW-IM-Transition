@@ -107,11 +107,11 @@ The in-plane magnetic flux is related to the physical field by φ = B·a·ℓ/Φ
 If you use this code, please cite the associated paper:
 
 ```
-@article{Chakraborty2025BLG,
+@article{Chakraborty2026BLG,
   author  = {Chakraborty, Amarnath and Rodin, Aleksandr and Adam, Shaffique and Vignale, Giovanni},
   title   = {Low-Field Metal-Insulator Transition in {AB}-Stacked Bilayer Graphene},
   journal = {Physical Review B},
-  year    = {2025},
+  year    = {2026},
   doi     = {to be inserted}
 }
 ```
