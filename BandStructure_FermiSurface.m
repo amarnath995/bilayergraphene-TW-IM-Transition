@@ -59,7 +59,7 @@ num_k   = numel(kx_list);
 %% --- External Field Parameters ---
 v    = 0.0000;   % Displacement field (interlayer potential asymmetry) in eV
                  % Set v > V_c ~ 0.00063 eV to open a bulk gap
-phi1 = 0.0054;   % In-plane magnetic flux (x); phi = B*a*l/Phi_0
+phi1 = 0.0000;   % In-plane magnetic flux (x); phi = B*a*l/Phi_0
 phi2 = 0.0000;   % In-plane magnetic flux (y); 0 for armchair field direction
 
 %% --- Function Handles ---
