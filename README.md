@@ -3,7 +3,7 @@
 **Companion code for:**
 > A. Chakraborty, A. Rodin, S. Adam, G. Vignale,
 > *Low-Field Metal-Insulator Transition in AB-Stacked Bilayer Graphene*,
-> Physical Review B (2025). DOI: [to be inserted upon publication]
+> Physical Review B (2026). DOI: [to be inserted upon publication]
 
 ---
 
